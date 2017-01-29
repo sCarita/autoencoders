@@ -1,5 +1,5 @@
 # Building Autoencoders in Keras
-Based on: [Original Post](https://blog.keras.io/building-autoencoders-in-keras.html)
+Based on: [Autoencoders Keras Blog Post](https://blog.keras.io/building-autoencoders-in-keras.html)
 
 ## Table of Contents
 
