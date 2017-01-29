@@ -1,5 +1,7 @@
 # Building Autoencoders in Keras
-[Original Post](https://blog.keras.io/building-autoencoders-in-keras.html)
+Based on: [Original Post](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+## Table of Contents
 
 * Simple autoencoder based on a fully-connected layer
 * Sparse autoencoder
